@@ -27,7 +27,13 @@ A high-fidelity Python simulation that synchronizes real-world weather data with
 The system calculates the exact position of the sun in the sky relative to the panel's location. This ensures the panel is always perpendicular to incoming rays for maximum energy absorption.
 
 ![Elevation Side-View Plot](assets/2.png)
-*(Replace this with a screenshot of the Side-View Animation)*
+
+
+
+
+https://github.com/user-attachments/assets/802a26ad-f30d-456b-8d01-ab5cb6b9dd21
+
+
 
 ### 2. Torque & Safety
 The application doesn't just track the sun; it evaluates environmental safety. If wind speeds are too high, the calculated torque alerts the user to potential motor strain.
